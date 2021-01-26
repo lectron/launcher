@@ -1,3 +1,13 @@
+**Download**
+
+If you download from the [Releases](https://github.com/lectron/launcher/releases) tab, select the installer for your system.
+
+| Platform | File |
+| -------- | ---- |
+| Windows x64 | [`Lectron-setup-1.0.0.exe`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.exe) |
+| macOS | [`Lectron-setup-1.0.0.dmg`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.dmg) |
+| Linux x64 | [`Lectron-setup-1.0.0.AppImage`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.AppImage) |
+
 <p align="center"><img src="./app/assets/images/icon.png" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">Lectron Universe</h1>
@@ -50,15 +60,6 @@ You can download from [GitHub Releases](https://github.com/lectron/launcher/rele
 #### Latest Pre-Release
 [![](https://img.shields.io/github/release/lectron/lectronlauncher/all.svg?style=flat-square)](https://github.com/lectron/launcher/releases)
 
-**Supported Platforms**
-
-If you download from the [Releases](https://github.com/lectron/launcher/releases) tab, select the installer for your system.
-
-| Platform | File |
-| -------- | ---- |
-| Windows x64 | [`Lectron-setup-1.0.0.exe`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.exe) |
-| macOS | [`Lectron-setup-1.0.0.dmg`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.dmg) |
-| Linux x64 | [`Lectron-setup-1.0.0.AppImage`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.AppImage) |
 
 ## Console
 
