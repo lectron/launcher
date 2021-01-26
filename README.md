@@ -58,7 +58,7 @@ If you download from the [Releases](https://github.com/lectron/launcher/releases
 | -------- | ---- |
 | Windows x64 | [`Lectron-setup-1.0.0.exe`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.exe) |
 | macOS | [`Lectron-setup-1.0.0.dmg`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.dmg) |
-| Linux x64 | `Lectron-setup-1.0.0-x86_64.AppImage` |
+| Linux x64 | [`Lectron-setup-1.0.0.AppImage`](https://github.com/lectron/launcher/releases/download/1.0.0/Lectron-setup-1.0.0.AppImage) |
 
 ## Console
 
