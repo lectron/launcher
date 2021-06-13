@@ -19,7 +19,7 @@ builder.build({
     targets: (process.argv[2] != null && Platform[process.argv[2]] != null ? Platform[process.argv[2]] : getCurrentPlatform()).createTarget(),
     config: {
         appId: 'lectronlauncher',
-        productName: 'lectron Launcher',
+        productName: 'Lectron',
         artifactName: '${productName}-setup-${version}.${ext}',
         copyright: 'Copyright © 2021-2023 Lectron',
         directories: {
@@ -46,8 +46,8 @@ builder.build({
         },
         linux: {
             target: 'AppImage',
-            maintainer: 'RLDevelopement',
-            vendor: 'RLDevelopement',
+            maintainer: 'Lectron.com',
+            vendor: 'Lectron.com',
             synopsis: 'Launcher of Lectron',
             description: 'Custom launcher which allows users to join Lectron. All Configurations, and updates are handled automatically.',
             category: 'Game'
