@@ -46,7 +46,7 @@ builder.build({
         },
         linux: {
             target: 'AppImage',
-            maintainer: 'Lectron.com',
+            maintainer: 'RLDevelopement',
             vendor: 'Lectron.com',
             synopsis: 'Launcher of Lectron',
             description: 'Custom launcher which allows users to join Lectron. All Configurations, and updates are handled automatically.',
